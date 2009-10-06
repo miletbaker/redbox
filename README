@@ -13,6 +13,10 @@ of the page is faded out behind it. There are already many such libraries around
 
 And of course, I wanted it all packaged as a nice rails plugin with handy helpers to use it. 
 
+Installation
+============
+
+script/plugin install git://github.com/miletbaker/redbox.git
 
 Credits
 =======
